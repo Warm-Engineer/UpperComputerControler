@@ -1,0 +1,2 @@
+# UpperComputerControler
+上位机和PLC通讯，上位机采集和处理数据返回给PLC结果让PLC执行
